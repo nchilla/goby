@@ -1,0 +1,30 @@
+{
+  blocks:[
+    {
+      id:"282371",
+      fields:{
+        source:"https://www.nytimes.com/2017/06/02/style/modern-love-making-a-marriage-magically-tidy.html",
+        author:"Brian Rea",
+        material:"digital",
+        dateOfWork:"June 2, 2017"
+      },
+      tags:[
+        "illustration"
+      ]
+    },
+    {
+      id:"596123",
+      fields:{
+        source:"https://magculture.com/civilization-1/",
+        author:"unknown",
+        material:"unknown",
+        dateOfWork:"unknown"
+      },
+      tags:[
+        "authentic art brut",
+        "illustration"
+      ]
+    }
+
+  ],
+}
